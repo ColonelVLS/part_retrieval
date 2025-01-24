@@ -1,0 +1,9 @@
+torch==1.11.0+cu113
+numpy==2.0.2
+h5py
+tqdm
+open3d==1.17
+diffusers
+matplotlib
+seaborn
+torch_geometric
